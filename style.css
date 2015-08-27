@@ -15,6 +15,8 @@ li {
     display: list-item;
 }
 
+
+
 .con{margin-left:auto;margin-right:auto;width:960px;}
 .g3,.g7{display:inline;float:left;}
 
@@ -35,7 +37,7 @@ html {
 body {
     background: #333;
     color: #333;
-  	font-family: Ubuntu, Droid Arabic Naskh, Segoe UI, tahoma, arial, sans-serif;
+	font-family: Ubuntu, Droid Arabic Naskh, Segoe UI, tahoma, arial, sans-serif;
     direction: rtl;
     min-width:960px;
     height: 100%
@@ -73,9 +75,7 @@ body {
     padding-right: 10px;
 }
 
-.textbox{
-padding: 20px 0 20px 30px;
-}
+.textbox{padding: 20px 0 20px 30px ;}
 
 .text {
     font-size: 14px;
