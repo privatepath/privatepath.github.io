@@ -1,9 +1,11 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu);
-@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
 *{margin:0;padding:0;}
-body{background:#f5f5f5;color:#333;font-family:Ubuntu,Droid Arabic Naskh,tahoma;min-width:640px;text-rendering:optimizeLegibility;}
-#content{width:640px;margin:60px auto;direction:rtl;}
-#header{letter-spacing:2px;font-size:68px;text-align:center;color:#f5f5f5;padding:20px;background:#333;box-shadow:0 -2px 12px #666;}
-.title{font-size:21px;text-align:center;margin-bottom:5px;}
+a{background-color:transparent;}
+a:link,a:visited,a:active,a:hover{cursor:pointer;outline:0;color:#222;text-decoration:none;}
+a:hover{color:blue;}
+body{background:#f5f5f5;color:#222;font-family:Ubuntu,Droid Arabic Naskh,tahoma;min-width:640px;text-rendering:optimizeLegibility;}
+#content{width:640px;margin:70px auto;direction:rtl;}
+#header{letter-spacing:2px;font-size:68px;text-align:center;color:#f5f5f5;padding:30px;background:#333;box-shadow:0 -2px 12px #666;}
+.title{font-size:24px;text-align:center;margin-bottom:8px;color:222;}
 .text{font-size:14px;text-align:justify;}
 p{padding-bottom: 10px;}
+.dl{padding-top:15px;padding-bottom:30px; direction: ltr;text-align:center;font-size:18px;}
