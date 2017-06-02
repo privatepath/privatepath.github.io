@@ -143,6 +143,7 @@ h4 {
 	line-height: 0px;
   font-weight: normal;
   direction: rtl;
+  padding-top: 25px;
 }
 
 p {
@@ -151,7 +152,6 @@ p {
 	font-family: vazir, 'Droid Arabic Naskh', Tahoma;
 	line-height: 25px;
 	direction: rtl;
-  padding-bottom: 20px;
 }
 
 a {
@@ -164,4 +164,11 @@ a {
 a:hover, a:active {
 	color: #B90504;
   transition: 0.15s;
+}
+
+img {
+  padding: 20px 0;
+  max-width: 785px;
+  display: block;
+  margin: 0 auto;
 }
